@@ -1,0 +1,18 @@
+package com.gl.CollegeFestDebateSpring.boot.service;
+
+import java.util.List;
+import java.util.Optional;
+
+import com.gl.CollegeFestDebateSpring.boot.entity.Student;
+
+public interface StudentService {
+	
+	List<Student> getAllStudents();
+	
+	Optional<Student> findById(int id);
+	
+	Student save(Student student);
+	
+	void delete(Student student);
+
+}

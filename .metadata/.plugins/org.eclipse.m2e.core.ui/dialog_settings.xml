@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/chandrimamukherjee/Downloads/Viyomsinghal-S4_BED_GradedProject4-main/Viyom_RestAPIAssignmentSolution-main/viyomSinghal_EMS"/>
+			<item value="/Users/chandrimamukherjee/Downloads/S1-VaibhavKoshta_BED_GradedProject4-main"/>
+			<item value="/Users/chandrimamukherjee/Downloads/AnubhabGupta2A-S2_BED_GradedProject4-main/Employee-Management-Spring-Boot"/>
+			<item value="/Users/chandrimamukherjee/Downloads/S4_BED_LabRestAPI-main"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

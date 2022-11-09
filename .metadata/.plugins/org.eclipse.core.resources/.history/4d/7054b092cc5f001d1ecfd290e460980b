@@ -1,0 +1,5 @@
+package com.gl.CollegeFestDebateSpring.boot.service;
+
+public interface StudentService {
+
+}
